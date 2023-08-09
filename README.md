@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Bhupendra Parihar</h1>
-<h3 align="center">A programming enthusiast from India</h3>
+# Hi There, I am Bhupendra Parihar
+## Full Stack Developer | Teacher
 
-- 💬 Ask me about **JavaScript, React, Angular, NodeJs**
+Hey there! I'm Bhupendra, a seasoned Full Stack Developer with over 14 years of experience in building web applications using the MERN stack. My journey in the world of software development has been an exciting ride, and I'm always eager to learn and share my knowledge with others.
 
-- 📫 How to reach me **bhupendrasparihar@gmail.com**
+## 🚀 Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Frontend:** React, Redux, Angular, HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Cloud:** AWS
+- **Version Control:** Git, Perforce
+- **DevOps:** Docker, CI/CD
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌱 Passion for Teaching
+
+I strongly believe in the power of education and enjoy sharing my expertise with aspiring developers. Whether it's through workshops, online tutorials, or mentoring, I find immense satisfaction in helping others grow in the field of software development.
+
+## 📚 Achievements
+
+- Created time critical product like RayBaum Web Component which later got integrated with all the Mitel Client Software
+- Conducted 20+ workshops on MERN stack development.
+- Read my articles at [jforjs.com](https://jforjs.com)
+
+## 📫 Let's Connect
+
+Feel free to reach out to me if you're interested in collaborating on projects, learning together, or just having a chat about all things tech. You can connect with me via [LinkedIn](https://www.linkedin.com/in/bhupendraparihar)
+
+## ⚡ Fun Facts
+
+- Enthusiastic about Poetry and Physics.
+- Learning a new programming language every year - currently exploring Rust!
+
