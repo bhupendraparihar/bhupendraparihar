@@ -1,5 +1,5 @@
-# Hi There, I am Bhupendra Parihar
-## Full Stack Developer | Teacher
+# Hi There, I am Bhupendra Singh Parihar
+## Full Stack Developer
 
 Hey there! I'm Bhupendra, a seasoned Full Stack Developer with over 14 years of experience in building web applications using the MERN stack. My journey in the world of software development has been an exciting ride, and I'm always eager to learn and share my knowledge with others.
 
